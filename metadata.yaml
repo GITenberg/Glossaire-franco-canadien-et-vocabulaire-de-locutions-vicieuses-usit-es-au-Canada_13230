@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4944'
     url: http://www.gutenberg.org/2009/agents/4944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13230#Glossaire-franco-canadien-et-vocabulaire-de-locutions-vicieuses-usit-es-au-Canada
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2004-08-20'
 gutenberg_type: Text
