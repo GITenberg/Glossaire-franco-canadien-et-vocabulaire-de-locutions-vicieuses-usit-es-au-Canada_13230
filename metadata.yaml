@@ -1,0 +1,29 @@
+_repo: Glossaire-franco-canadien-et-vocabulaire-de-locutions-vicieuses-usit-es-au-Canada_13230
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dunn, Oscar
+    birthdate: 1845
+    deathdate: 1885
+    gutenberg_agent_id: '4944'
+    url: http://www.gutenberg.org/2009/agents/4944
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2004-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13230'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Canada -- Dictionaries'
+- !lcsh 'Canadianisms, French -- Dictionaries'
+- !lcc 'PC'
+title: Glossaire franco-canadien et vocabulaire de locutions vicieuses usitées au
+  Canada
+url: http://www.gutenberg.org/ebooks/13230
